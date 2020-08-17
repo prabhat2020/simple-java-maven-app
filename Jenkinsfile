@@ -14,7 +14,7 @@ pipeline {
         NEXUS_REPOSITORY = "repository-example"
         // Jenkins credential id to authenticate to Nexus OSS
         NEXUS_CREDENTIAL_ID = "c0f748c6-fbf2-41a0-8672-4fa953220455"
-        registry = "prabhat2020/testing"
+        registry = "prabhat2020/testing1"
         registryCredential = "06216ef3-ad77-49a6-a37b-e2e91cd08bfb"
     }
   stages {
